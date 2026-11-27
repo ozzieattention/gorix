@@ -1,0 +1,6 @@
+# Kisisel ayarlar ve log (uygulama ilk acilista kendisi olusturur)
+settings.json
+*.log
+
+# Derlenen kurulum dosyasi (GitHub Releases'e yuklenir)
+dist/
